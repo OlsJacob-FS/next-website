@@ -5,8 +5,11 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
+  background-color: #ffffff;
 }
-
+.div {
+  background-color: #000000;
+}
 .description {
   display: inherit;
   justify-content: inherit;
